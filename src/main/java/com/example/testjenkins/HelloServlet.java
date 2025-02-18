@@ -10,7 +10,7 @@ public class HelloServlet extends HttpServlet {
     private String message;
 
     public void init() {
-        message = "Test Jenkins!";
+        message = "Hello Jenkins!";
     }
 
     public void doGet(HttpServletRequest request, HttpServletResponse response) throws IOException {
