@@ -9,5 +9,6 @@
 </h1>
 <br/>
 <a href="hello-servlet">Нажми сюда!</a>
+<a href="main">Main</a>
 </body>
 </html>
